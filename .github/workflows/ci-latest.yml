@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   build-test:
-    runs-on: ubuntu-latest
+    runs-on: Macbook-M1-Pro-14inch-cua-Hoang-Anh
 
     steps:
       - uses: actions/checkout@v3
